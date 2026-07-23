@@ -47,3 +47,23 @@ Les réponses sont générées uniquement à partir du contenu des documents (RA
 - Intégrer l'API OpenAI
 - Mettre en place une authentification JWT
 - Appliquer les bonnes pratiques de sécurité
+
+
+## Architecture
+
+Frontend
+
+- Angular
+
+Backend
+
+- FastAPI
+
+Database
+
+- PostgreSQL
+
+Containerisation
+
+- Docker
+- Docker Compose
